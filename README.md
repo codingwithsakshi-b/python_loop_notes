@@ -39,6 +39,7 @@ This repo is part of my coding journey as I build my fundamentals strong 💪✨
 ## 🚀 More Coming Soon
 
 Stay tuned for more notes on Python — covering conditions, functions, data structures, and mini-projects 👩‍💻
+“Banate banate samajh aaya — loops sirf code mein nahi, zindagi mein bhi hote hain... bas break lena aa jaye 😉”
 
 ---
 
